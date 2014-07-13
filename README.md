@@ -12,7 +12,7 @@ Terminal 2:
 $ telnet 127.0.0.1 8000
 
 
-Termina 3 :
+Terminal 3 :
 $ telnet 127.0.0.1 8000
 
 
